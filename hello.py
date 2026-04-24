@@ -2,7 +2,7 @@ import random
 
 
 name = input ("What's your name?") 
-
+surname = input ("what's your surmane?")
 
 secret = random.randint(1, 10)
 guess = 0
